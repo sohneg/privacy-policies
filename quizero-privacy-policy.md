@@ -1,43 +1,42 @@
-# Datenschutzerklärung für "Quizero"
+# Privacy Policy for "Quizero"
 
-**Letzte Aktualisierung: 09.04.2025**
+**Last updated: 09.04.2025**
 
-Wir bei **Orbit Core** legen großen Wert auf den Schutz deiner persönlichen Daten und die Wahrung deiner Privatsphäre. Diese Datenschutzerklärung erklärt, wie wir deine Daten in unserer App **"Quizero"** handhaben.
+At **Quizero**, we take your privacy seriously. This privacy policy explains how we handle your data in our app.
 
-## 1. **Erhobene Daten**
+## 1. Information We Collect
 
-Unsere App **"Quizero"** erhebt **keine persönlichen Daten**. Wir sammeln keine Informationen über dich, wie z. B. deinen Namen, deine E-Mail-Adresse oder Standort.
+We do **not** collect any personal data. The app does not request, store, or transmit any personally identifiable information such as your name, email, location, or device information.
 
-## 2. **Verwendung von Daten**
+## 2. Use of Data
 
-Da wir keine persönlichen Daten sammeln, verwenden wir auch keine Daten zu Analyse- oder Marketingzwecken.
+Since we do not collect any data, we also do not use it for analytics, tracking, or marketing purposes.
 
-## 3. **Datenweitergabe**
+## 3. Data Sharing
 
-Wir geben **keine persönlichen Daten** an Dritte weiter. Deine Daten werden nicht verkauft, vermietet oder auf andere Weise weitergegeben.
+We do **not** share any information with third parties. No data is sold, rented, or disclosed to any external service or provider.
 
-## 4. **Cookies und ähnliche Technologien**
+## 4. Cookies and Tracking Technologies
 
-Unsere App verwendet **keine Cookies** oder ähnliche Technologien. Alle internen Prozesse und Funktionen laufen ausschließlich auf deinem Gerät und werden nicht an uns übertragen.
+We do **not** use cookies, trackers, or any analytics tools. All processes happen locally on your device.
 
-## 5. **Sicherheit**
+## 5. Security
 
-Obwohl wir keine persönlichen Daten sammeln, ist uns die Sicherheit deines Geräts und deiner Daten wichtig. Wir empfehlen dir, sicherzustellen, dass dein Gerät vor unbefugtem Zugriff geschützt ist.
+Although we do not collect personal data, we take your device's privacy seriously. We encourage you to keep your device secure and use the latest system updates.
 
-## 6. **Änderungen dieser Datenschutzerklärung**
+## 6. Changes to This Policy
 
-Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu aktualisieren. Änderungen werden in dieser Erklärung veröffentlicht. Es wird empfohlen, diese regelmäßig zu überprüfen.
+We may update this privacy policy from time to time. Any changes will be posted here. We encourage users to review this page regularly.
 
-## 7. **Kontakt**
+## 7. Contact
 
-Wenn du Fragen zu dieser Datenschutzerklärung hast oder mehr über den Datenschutz in unserer App erfahren möchtest, kontaktiere uns bitte:
+If you have any questions about this privacy policy, feel free to contact us:
 
-- **E-Mail:** devsohneg@gmail.com
-- **Website:** www.orbit-core.ch
+- **Email:** devsohneg@gmail.com
+- **Website:** www.sohneg.ch
 
 ---
 
-### **Zusammenfassung:**
-
-- **Keine persönlichen Daten werden gesammelt oder weitergegeben.**
-- **Keine Nutzung von Cookies oder Tracking-Technologien.**
+**Summary:**  
+- No personal data is collected or shared.  
+- No tracking or analytics tools are used.
